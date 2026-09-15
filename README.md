@@ -1,4 +1,4 @@
-# Cornell Sports Analytics Sports Analytics Education
+# Cornell Sports Analytics New Member Education
 
 ---
 
@@ -11,9 +11,9 @@ The goal is to become familiar with Python and Python libraries (Numpy, Pandas, 
 
 ## Important Links/Folders
 
-data - sample CSV datasets used throughout the notebooks
+`/data` - sample CSV datasets used through some of the notebooks
 
-notebooks - step-by-step Jupyter notebooks covering each topic, where you'll read explanations, run example code, and complete exercises
+`/notebooks` - step-by-step Jupyter notebooks covering each topic, where you'll read explanations, run example code, and complete exercises
 
 ---
 
@@ -33,8 +33,10 @@ Step 2: Open a notebook in Google Colab
 1. Go to colab.research.google.com.
 2. Sign in with your Google account if asked.
 3. Click "Upload Notebook".
-4. In the upload window, click Upload > Browse, and select the notebook file (.ipynb) you want to work on from the extracted folder (education-main).
+4. In the upload window, click Upload > Browse, and select the notebook file (.ipynb) you want to work on from the extracted folder (education-main > notebooks).
 
-Step
+---
+
+Created by Sameer Nathawat
 
 
