@@ -31,6 +31,10 @@ Step 1: Download files from GitHub
 Step 2: Open a notebook in Google Colab
 
 1. Go to colab.research.google.com.
-2. Sign in with your Google account if prompted.
+2. Sign in with your Google account if asked.
+3. Click "Upload Notebook".
+4. In the upload window, click Upload > Browse, and select the notebook file (.ipynb) you want to work on from the extracted folder (education-main).
+
+Step
 
 
